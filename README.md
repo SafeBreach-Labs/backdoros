@@ -21,6 +21,9 @@ $ telnet localhost 31337
 
 backdorOS was released as part of the [BackdorOS: The In-memory OS for Red Teams](https://texascybersummitii2019.sched.com/event/Tqsp/fr-2016-red-team-backdoros-in-memory?iframe=no&w=100%25&sidebar=no&bg=dark) talk given at Texas Cyber Summit 2019 conference by Itzik Kotler from [SafeBreach Labs](http://www.safebreach.com).
 
+## Slides
+Click [here](https://github.com/SafeBreach-Labs/backdoros/raw/master/BackdorOS.pdf) to download
+
 ## Version
 0.1.0
 
